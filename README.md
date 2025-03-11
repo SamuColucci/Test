@@ -1,4 +1,4 @@
 # TestModifica
 testing2
-this is an example of README.
-another line changed.
+This is an example of README.
+Another line changed.
